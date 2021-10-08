@@ -1,6 +1,7 @@
 def i_will_conflict
   this = "is going to be fine"
   puts this
+
   feature_a
 <<<<<<< HEAD
   feature_b

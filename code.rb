@@ -1,6 +1,6 @@
 def i_will_conflict
-  something = "is going to be wrong"
-  puts something
+  this = "is going to be fine"
+  puts this
 end
 
 i_will_conflict

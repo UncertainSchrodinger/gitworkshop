@@ -14,4 +14,8 @@ end
 def feature_b
 end
 
+def feature_a
+  puts "debug"
+end
+
 i_will_conflict
